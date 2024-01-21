@@ -48,11 +48,6 @@ body {
     flex: 1;
     padding: 80px;
 }
-
-.text-container p {
-    /* Add your text styles here */
-}
-
 .photo-container img {
     max-width: 100%;
     height: auto;
